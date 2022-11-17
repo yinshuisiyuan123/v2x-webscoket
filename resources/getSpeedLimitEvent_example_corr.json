@@ -1,0 +1,40 @@
+[
+  {
+    "alertDistance":1000,
+    "eventArea":[
+      "116.0937711,39.6552168",
+      "116.0937712,39.6552169"
+    ],
+    "eventEndTime":"2021-08-21 00:45:01.659",
+    "eventGps":"116.0937711,39.6552168",
+    "eventId":"48940242",
+    "eventLevel":1,
+    "eventRange":2000,
+    "eventRoadNo":"520",
+    "eventStartTime":"2021-08-20 20:45:01.619",
+    "eventTip":"当前限速40公里/小时",
+    "msgTime":"2021-08-20 02:00:00",
+    "eventType":42,
+    "eventStatus":2,
+    "sendFrequency":20
+  },
+  {
+    "alertDistance":1000,
+    "eventArea":[
+      "116.0937711,39.6552168",
+      "116.0937712,39.6552169"
+    ],
+    "eventEndTime":"2021-08-21 00:45:01.659",
+    "eventGps":"116.0937711,39.6552168",
+    "eventId":"81333740",
+    "eventLevel":1,
+    "eventRange":2000,
+    "eventRoadNo":"520",
+    "eventStartTime":"2021-08-20 20:45:01.619",
+    "eventTip":"当前限速60公里/小时",
+    "msgTime":"2021-08-20 02:00:00",
+    "eventType":42,
+    "eventStatus":2,
+    "sendFrequency":20
+  }
+]

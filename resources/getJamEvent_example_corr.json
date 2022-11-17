@@ -1,0 +1,40 @@
+[
+  {
+    "alertDistance":1000,
+    "eventArea":[
+      "116.0937711,39.6552168",
+      "116.0937712,39.6552169"
+    ],
+    "eventEndTime":"2021-08-21 00:34:30.612",
+    "eventGps":"116.0937711,39.6552168",
+    "eventId":"43200008",
+    "eventLevel":3,
+    "eventRange":200,
+    "eventRoadNo":"519",
+    "eventStartTime":"2021-08-20 20:34:30.570",
+    "msgTime":"2021-08-20 02:00:00",
+    "eventTip":"前方道路轻度拥堵，请选择合适的路线",
+    "eventType":41,
+    "eventStatus":1,
+    "sendFrequency":20
+  },
+  {
+    "alertDistance":1000,
+    "eventArea":[
+      "116.0937711,39.6552168",
+      "116.0937712,39.6552169"
+    ],
+    "eventEndTime":"2021-08-21 00:34:30.612",
+    "eventGps":"116.0937711,39.6552168",
+    "eventId":"10198693",
+    "eventLevel":5,
+    "eventRange":800,
+    "eventRoadNo":"520",
+    "eventStartTime":"2021-08-20 20:34:30.570",
+    "msgTime":"2021-08-20 02:00:00",
+    "eventTip":"前方道路严重拥堵，请选择合适的路线",
+    "eventType":41,
+    "eventStatus":2,
+    "sendFrequency":20
+  }
+]

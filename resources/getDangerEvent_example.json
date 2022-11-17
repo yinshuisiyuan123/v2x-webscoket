@@ -1,0 +1,73 @@
+[{
+		"alertDistance": 1000,
+		"eventStatus": 1,
+		"eventArea": [
+			""
+		],
+		"eventEndTime": "2021-08-21 00:34:30.571",
+		"eventGps": "116.0937711,39.6552168",
+		"eventId": "123456",
+		"eventLevel": 2,
+		"eventRange": 0,
+		"eventRoadNo": "ALL",
+		"eventStartTime": "2021-08-20 20:34:30.570",
+		"eventTip": "道路湿滑，请小心驾驶",
+		"msgTime": "2021-08-20 02:00:00",
+		"eventType": 1,
+		"sendFrequency": 100
+	},
+	{
+		"alertDistance": 1000,
+		"eventStatus": 1,
+		"eventArea": [
+			""
+		],
+		"eventEndTime": "2021-08-21 00:34:30.571",
+		"eventGps": "116.0937711,39.6552168",
+		"eventId": "789123",
+		"eventLevel": 3,
+		"eventRange": 0,
+		"eventRoadNo": "ALL",
+		"eventStartTime": "2021-08-20 20:34:30.570",
+		"eventTip": "道路结冰，请小心驾驶",
+		"msgTime": "2021-08-20 02:00:00",
+		"eventType": 2,
+		"sendFrequency": 100
+	},
+	{
+		"alertDistance": 1000,
+		"eventStatus": 1,
+		"eventArea": [
+			""
+		],
+		"eventEndTime": "2021-08-21 00:34:30.571",
+		"eventGps": "116.0937711,39.6552168",
+		"eventId": "456789",
+		"eventLevel": 1,
+		"eventRange": 0,
+		"eventRoadNo": "ALL",
+		"eventStartTime": "2021-08-20 20:34:30.570",
+		"eventTip": "大风天气，请小心驾驶",
+		"msgTime": "2021-08-20 02:00:00",
+		"eventType": 3,
+		"sendFrequency": 100
+	},
+	{
+		"alertDistance": 1000,
+		"eventStatus": 1,
+		"eventArea": [
+			""
+		],
+		"eventEndTime": "2021-08-21 00:34:30.572",
+		"eventGps": "116.0937711,39.6552168",
+		"eventId": "159753",
+		"eventLevel": 4,
+		"eventRange": 0,
+		"eventRoadNo": "ALL",
+		"eventStartTime": "2021-08-20 20:34:30.570",
+		"eventTip": "能见度低，请保持安全车距",
+		"msgTime": "2021-08-20 02:00:00",
+		"eventType": 4,
+		"sendFrequency": 100
+	}
+]
