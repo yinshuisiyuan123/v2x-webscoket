@@ -2,7 +2,7 @@ import asyncio
 import websockets
 import json
 IP_ADDR = "127.0.0.1"
-IP_PORT = "8888"
+IP_PORT = "8887"
 
 
 # 握手，通过发送hello，接收"123"来进行双方的握手。
@@ -32,7 +32,7 @@ async def clientSend(websocket):
 async def clientRun():
     ipaddress = IP_ADDR + ":" + IP_PORT
     async with websockets.connect("ws://" + ipaddress) as websocket:
-        await clientHands(websocket)
+        # await clientHands(websocket)
 
         await clientSend(websocket)
 
